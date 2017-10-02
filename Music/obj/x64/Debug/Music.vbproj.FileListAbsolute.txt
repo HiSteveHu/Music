@@ -1,0 +1,9 @@
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\Music.vbproj.ResolveComReference.cache
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\Music.Previewpicture.resources
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\Music.Main.resources
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\Music.Resources.resources
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\Music.Reli.resources
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\Music.Setting.resources
+C:\Users\histe\Documents\Visual Studio 2017\Projects\Music\Music\obj\x64\Debug\Music.vbproj.GenerateResource.Cache
